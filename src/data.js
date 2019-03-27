@@ -19,7 +19,7 @@ export const storeProducts = [
   },
   
     {
-    id: 10,
+    id: 2,
     title: "Google Pixel",
     img: "https://cdn2.gsmarena.com/vv/bigpic/google-pixel.jpg",
     price: 290,
